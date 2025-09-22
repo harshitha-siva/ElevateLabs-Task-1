@@ -46,7 +46,6 @@ The capture demonstrates the SYN scan in action:
 - **Multiple Connections:** Various TCP streams to different ports and services  
 
 ---
-
 ## Security Implications
 
 ### Legitimate Uses
